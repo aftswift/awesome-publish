@@ -2,7 +2,7 @@
 # Awesome Publish [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [Publish](https://github.com/JohnSundell/Publish) is growing in popularity as a swiftly written static site generator. 
-Our team needed help learning Publish... Moral of the story, lists were made. 
+Our team needed help learning Publish. Moral of the story, lists were made. 
 
 - Plugins that easily integrate with Publish;
 - Tutorials, videos and education materials;
