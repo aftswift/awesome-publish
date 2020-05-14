@@ -79,6 +79,10 @@ Best plugin practice includes searching the Publish Plugin [Tag](https://github.
 * [christianelies](https://github.com/crelies/christianelies.de)
 * [mihaileonte](https://github.com/leontedev/Publish-leonte.dev)
 
+## Show cases:
+* [Swift By Sundell](https://www.swiftbysundell.com/)
+* [Ram Shandilya](https://www.ramshandilya.com/)
+* [Luis Ascorbe](https://lascorbe.com/)
 
 ## License
 Whatever's productive! :)
