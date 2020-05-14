@@ -83,6 +83,7 @@ Best plugin practice includes searching the Publish Plugin [Tag](https://github.
 * [Swift By Sundell](https://www.swiftbysundell.com/)
 * [Ram Shandilya](https://www.ramshandilya.com/)
 * [Luis Ascorbe](https://lascorbe.com/)
+* [Alexito's World](https://alejandromp.com/)
 
 ## License
 Whatever's productive! :)
