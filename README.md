@@ -54,6 +54,8 @@ Best plugin practice includes searching the Publish Plugin [Tag](https://github.
 *  [Code Syntaxt CSS](https://github.com/SpectralDragon/CodeSyntaxCSSGeneratorPlugin.git)
 *  [Tidy HTML](https://github.com/john-mueller/TidyHTMLPublishStep.git)
 *  [Verify Resources Exist](https://github.com/wacumov/VerifyResourcesExistPublishPlugin.git)
+*  [S3](https://github.com/JohnBehnke/S3PublishDeploy)
+*  [LocalWeb](https://github.com/Deub27/LocalWebsitePublishPlugin)
 
 
 ### Themes
@@ -70,14 +72,20 @@ Best plugin practice includes searching the Publish Plugin [Tag](https://github.
 ### Videos
 * [How to build a static site generator in Swift](https://www.swiftbysundell.com/videos/static-site-generation-in-swift) Nov19
 * [Create A Blog Website Using Swift and Publish](https://www.youtube.com/watch?v=JqdS-oi96Gk) Apr20
+* [How to Install and Use Publish](https://www.youtube.com/watch?v=1qI_pIdsaII) Jan26
+* [Creating a plugin for Publish](https://www.youtube.com/watch?v=8uELlWDCYqM) Jan6
+* [Trying Sundell's Swift static web generator Publish](https://www.youtube.com/watch?v=Qju4l48M_A4) Dec31
 
 
 ## Open-source Sites 🤍
 * [abespodcast](https://github.com/abespodcast/abespodcast.github.io)
-* [zorkdev](https://github.com/zorkdev/Website)
-* [jamiejenkins](https://github.com/jamiejenkins/jamiejenkins.com)
+* [cambardell](https://github.com/cambardell/portfolio)
 * [christianelies](https://github.com/crelies/christianelies.de)
+* [elviraburchik](https://github.com/ElviraBurchik/elviraburchik.github.io)
+* [jamiejenkins](https://github.com/jamiejenkins/jamiejenkins.com)
 * [mihaileonte](https://github.com/leontedev/Publish-leonte.dev)
+* [trampampam](https://github.com/TramPamPam/ActualSite)
+* [zorkdev](https://github.com/zorkdev/Website)
 
 ## Show cases:
 * [Swift By Sundell](https://www.swiftbysundell.com/)
