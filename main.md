@@ -58,7 +58,6 @@ You're recommended to search all github [tags](https://github.com/topics/publish
 *  [Verify](https://github.com/wacumov/VerifyResourcesExistPublishPlugin.git)
 
 ### Precompiled Resources
-* [Techmunchies](https://github.com/mariolopjr/TechmunchiesTheme)
 * [Tokamak](https://github.com/TokamakUI/TokamakPublish)
 
 ### Articles
